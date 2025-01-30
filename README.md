@@ -7,6 +7,7 @@
 ## Linguagens aprendidas:
 - Python
 - Javascript
+- Typescript
 - SQL
 - HTML
 - CSS
