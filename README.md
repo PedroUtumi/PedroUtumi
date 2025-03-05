@@ -22,6 +22,9 @@
 - 💬 **LinkedIn**: [Pedro Utumi]([https://www.linkedin.com/in/pedro_utumi/](https://www.linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/))
 - 📧 **Email**: Pedroutumi@gmail.com
 
+## 🛠️ Linguagens mais usadas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/PedrinnhoUtumi&layout=compact)
 
 <!--
 **PedrinnhoUtumi/PedrinnhoUtumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
