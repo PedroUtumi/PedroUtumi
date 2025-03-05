@@ -1,10 +1,10 @@
 # Olá, eu sou o Pedro!👋
 
-## Escolaridade:
+## 🎓 Escolaridade:
 - Ensino Fundamental I e II: Escola Natividade de Nossa Senhora
-- Ensino Médio: Universidade Tecnológica Federal do Paraná (UTFPR 3/4) 
+- Ensino Médio: Universidade Tecnológica Federal do Paraná (UTFPR 4/4) 
 
-## Linguagens aprendidas:
+## 💻 Linguagens aprendidas:
 - Python
 - Javascript
 - Typescript
@@ -13,11 +13,11 @@
 - CSS
 - C++
 
-## Trabalho:
+## 💼 Trabalho:
 - Magvia Produtos Médicos Ltda
 - Trabalhando com sistemas embarcados e programação orientada a objetos
 
-## Redes Sociais:
+## 🌐 Redes Sociais:
 - 📷 **Instagram**: [Pedro_utumi](https://www.instagram.com/pedro_utumi/)
 - 💬 **LinkedIn**: [Pedro Utumi]([https://www.linkedin.com/in/pedro_utumi/](https://www.linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/))
 - 📧 **Email**: Pedroutumi@gmail.com
