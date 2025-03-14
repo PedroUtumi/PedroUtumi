@@ -5,13 +5,13 @@
 - Ensino Médio: Universidade Tecnológica Federal do Paraná (UTFPR 4/4) 
 
 ## 💻 Linguagens aprendidas:
-- Python
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 - Javascript
 - Typescript
 - SQL
 - HTML
 - CSS
-- C++
+- C/C++
 
 ## 💼 Trabalho:
 - Magvia Produtos Médicos Ltda
