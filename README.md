@@ -25,10 +25,13 @@
 
 ## 🛠️ Linguagens mais usadas
 <div align="center">
- ![Top Linguagens](https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
- ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=github_dark&hide_border=true)
- ![Top Linguagens](https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true)
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=github_dark&hide_border=true" alt="Top Linguagens">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+
 </div>
+
 
 <!--
 **PedrinnhoUtumi/PedrinnhoUtumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
