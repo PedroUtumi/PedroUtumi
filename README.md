@@ -25,7 +25,7 @@
 
 ## 🛠️ Linguagens mais usadas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact)
+![Top Linguagens](https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true)
 
 
 <!--
