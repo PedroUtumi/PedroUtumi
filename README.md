@@ -4,7 +4,7 @@
 - Ensino Fundamental I e II: Escola Natividade de Nossa Senhora
 - Ensino Médio: Universidade Tecnológica Federal do Paraná (UTFPR 4/4) 
 
-## 💻 Linguagens aprendidas:
+## 💻 Linguagens e tecnologias aprendidas:
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -42,7 +42,6 @@
 
 </div>
 
-## Snake Contribution
 ![snake dark gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
