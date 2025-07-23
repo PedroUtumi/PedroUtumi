@@ -3,16 +3,16 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v4
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
 
-      - name: Generate Snake Game from GitHub Contributions
+      - name: Gerar Snake
         uses: Platane/snk@v3
         with:
           github_user_name: PedrinnhoUtumi
@@ -20,10 +20,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit animation
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "🌀 Atualizar animação Snake"
+          add: "dist/*.svg"
