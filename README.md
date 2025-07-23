@@ -41,7 +41,9 @@
 
 
 </div>
+
 ## 🐍 Snake Contribution
+
 ![snake dark gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 <!--
