@@ -42,6 +42,7 @@
 
 </div>
 
+## Snake Contribution
 ![snake gif](https://raw.githubusercontent.com/PedrinnhoUtumi/PedrinnhoUtumi/output/github-snake-dark.svg)
 
 <!--
