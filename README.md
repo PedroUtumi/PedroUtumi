@@ -26,13 +26,7 @@
 - Trabalhando com sistemas embarcados e programação orientada a objetos
 
 ## 📬 Contato
-
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:pedroutumi@gmail.com)
-[![WhatsApp](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/br.png)](https://wa.me/5544997078775)
-[![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://instagram.com/pedro_utumi)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/)
-
-## 📬 Contato
+<div align="center">
 
 <a href="mailto:pedroutumi@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
@@ -46,6 +40,7 @@
 <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
+</div>
 
 
 ## 🛠️ Linguagens mais usadas
