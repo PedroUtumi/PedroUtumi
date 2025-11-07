@@ -40,7 +40,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
 
