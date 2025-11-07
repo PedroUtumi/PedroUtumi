@@ -32,6 +32,20 @@
 [![Instagram](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg)](https://instagram.com/pedro_utumi)
 [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/)
 
+## 📬 Contato
+
+<a href="mailto:pedroutumi@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+</a>
+<a href="https://wa.me/5544997078775">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="32"/>
+</a>
+<a href="https://instagram.com/pedro_utumi">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+</a>
+<a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+</a>
 
 
 ## 🛠️ Linguagens mais usadas
