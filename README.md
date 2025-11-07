@@ -30,13 +30,15 @@
 <p align="center">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/5544997078775?text=Olá!">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" alt="WhatsApp"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://instagram.com/seuuser">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
