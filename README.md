@@ -2,7 +2,8 @@
 
 ## 🎓 Escolaridade:
 - Ensino Fundamental I e II: Escola Natividade de Nossa Senhora
-- Ensino Médio: Universidade Tecnológica Federal do Paraná (UTFPR 4/4) 
+- Ensino Médio Técnico: Universidade Tecnológica Federal do Paraná
+- Graduação: Engenharia de Computação (Universidade Estadual de Maringá)  
 
 ## 💻 Linguagens e tecnologias aprendidas:
 <p align="center">
