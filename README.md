@@ -1,131 +1,119 @@
-# 👨‍💻 Pedro Utumi
+<h1 align="center">
+⚡ Pedro Utumi ⚡
+</h1>
 
 <p align="center">
-Desenvolvedor Full Stack | Sistemas Embarcados | Engenharia de Computação
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=900&height=60&color=00F7FF&lines=Full+Stack+Developer;Embedded+Systems+Developer;Computer+Engineering+Student;Building+Modern+and+Scalable+Solutions" />
+
 </p>
 
-<p align="center">
-Criando soluções tecnológicas modernas, escaláveis e eficientes.
-</p>
-
 ---
 
-# 🚀 Sobre mim
+# 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Computação** e desenvolvedor com foco em:
+💻 Desenvolvedor **Full Stack** e entusiasta de **Sistemas Embarcados**  
+🎓 Estudante de **Engenharia de Computação**  
+🚀 Focado em criar soluções **modernas, escaláveis e eficientes**
 
-- Desenvolvimento **Full Stack**
-- **Sistemas Embarcados**
-- **Programação orientada a objetos**
-- **Integração entre hardware e software**
+Atualmente trabalho com desenvolvimento de software na **Magvia Produtos Médicos**, atuando com:
 
-Tenho experiência no desenvolvimento de aplicações web modernas e também em soluções embarcadas para sistemas industriais.
-
----
-
-# 🎓 Formação Acadêmica
-
-**Ensino Fundamental I e II**  
-Escola Natividade de Nossa Senhora  
-
-**Ensino Médio Técnico**  
-Universidade Tecnológica Federal do Paraná  
-
-**Graduação**  
-Engenharia de Computação  
-Universidade Estadual de Maringá  
-
----
-
-# 💼 Experiência Profissional
-
-**Magvia Produtos Médicos Ltda**
-
-Atuação em:
-
-- Desenvolvimento de **sistemas embarcados**
+- Sistemas embarcados
 - Programação orientada a objetos
-- Integração de hardware e software
-- Desenvolvimento de soluções tecnológicas para dispositivos médicos
+- Integração hardware + software
+- Desenvolvimento de aplicações web
 
 ---
 
-# 🧠 Tecnologias e Linguagens
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,postgres,mysql&perline=6" />
-
-</p>
-
-### Tecnologias que utilizo
-
-- C
-- C++
-- Python
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- HTML
-- CSS
-- PostgreSQL
-- MySQL
-- Machbase Neo
-
----
-
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Atividade de Desenvolvimento
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-![snake dark gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,postgres,mysql&theme=dark" />
 
 </p>
 
 ---
 
-# 📬 Contato
+# 🧠 Tecnologias que utilizo
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00FFFF?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-00FFFF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-00FFFF?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-00FFFF?style=for-the-badge&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-00FFFF?style=for-the-badge&logo=mysql&logoColor=black"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌐 Contato
 
 <p align="center">
 
 <a href="mailto:pedroutumi@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://wa.me/5544997078775">
-<img src="https://skillicons.dev/icons?i=whatsapp"/>
+<img src="https://img.shields.io/badge/WhatsApp-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=black"/>
 </a>
 
 <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://instagram.com/pedro_utumi">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PedrinnhoUtumi&color=00ffff&style=for-the-badge"/>
 
 </p>
 
@@ -133,6 +121,6 @@ Atuação em:
 
 <p align="center">
 
-⭐ Sempre aberto para colaborar em projetos e novas oportunidades.
+⚡ *Always building something new.*
 
 </p>
