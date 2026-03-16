@@ -1,77 +1,138 @@
- # Olá, eu sou o Pedro!👋
-
-## 🎓 Escolaridade:
-- Ensino Fundamental I e II: Escola Natividade de Nossa Senhora
-- Ensino Médio Técnico: Universidade Tecnológica Federal do Paraná
-- Graduação: Engenharia de Computação (Universidade Estadual de Maringá)  
-
-## 💻 Linguagens e tecnologias aprendidas:
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-4479A1?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machbase%20Neo-03B3F7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjMDNiM2Y3IiByeD0iMiIvPjwvc3ZnPg=="/>
-</p>
-
-## 💼 Trabalho:
-- Magvia Produtos Médicos Ltda
-- Trabalhando com sistemas embarcados e programação orientada a objetos
-
-## 📬 Contato
+# 👨‍💻 Pedro Utumi
 
 <p align="center">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/5544997078775?text=Olá!">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" alt="WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/seuuser">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
+Desenvolvedor Full Stack | Sistemas Embarcados | Engenharia de Computação
 </p>
 
-## 🛠️ Linguagens mais usadas
+<p align="center">
+Criando soluções tecnológicas modernas, escaláveis e eficientes.
+</p>
+
+---
+
+# 🚀 Sobre mim
+
+Sou estudante de **Engenharia de Computação** e desenvolvedor com foco em:
+
+- Desenvolvimento **Full Stack**
+- **Sistemas Embarcados**
+- **Programação orientada a objetos**
+- **Integração entre hardware e software**
+
+Tenho experiência no desenvolvimento de aplicações web modernas e também em soluções embarcadas para sistemas industriais.
+
+---
+
+# 🎓 Formação Acadêmica
+
+**Ensino Fundamental I e II**  
+Escola Natividade de Nossa Senhora  
+
+**Ensino Médio Técnico**  
+Universidade Tecnológica Federal do Paraná  
+
+**Graduação**  
+Engenharia de Computação  
+Universidade Estadual de Maringá  
+
+---
+
+# 💼 Experiência Profissional
+
+**Magvia Produtos Médicos Ltda**
+
+Atuação em:
+
+- Desenvolvimento de **sistemas embarcados**
+- Programação orientada a objetos
+- Integração de hardware e software
+- Desenvolvimento de soluções tecnológicas para dispositivos médicos
+
+---
+
+# 🧠 Tecnologias e Linguagens
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,html,css,postgres,mysql&perline=6" />
+
+</p>
+
+### Tecnologias que utilizo
+
+- C
+- C++
+- Python
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- HTML
+- CSS
+- PostgreSQL
+- MySQL
+- Machbase Neo
+
+---
+
+# 📊 Estatísticas do GitHub
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=github_dark&hide_border=true" alt="Top Linguagens">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-## 🐍 Snake Contribution
+---
 
-![snake dark gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+# 📈 Atividade de Desenvolvimento
 
-<!--
-**PedrinnhoUtumi/PedrinnhoUtumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=github-compact&hide_border=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+
+![snake dark gif](https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+---
+
+# 📬 Contato
+
+<p align="center">
+
+<a href="mailto:pedroutumi@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://wa.me/5544997078775">
+<img src="https://skillicons.dev/icons?i=whatsapp"/>
+</a>
+
+<a href="https://linkedin.com/in/pedro-felipe-onofre-utumi-4bb71a30b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/pedro_utumi">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Sempre aberto para colaborar em projetos e novas oportunidades.
+
+</p>
