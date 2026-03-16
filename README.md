@@ -27,6 +27,7 @@ I have professional experience in software development at **Magvia Produtos Méd
 
 **Computer Engineering**  
 Universidade Estadual de Maringá
+
 Currently pursuing a Bachelor's degree focused on software development, embedded systems and computer architecture.
 
 **Integrated Technician in Information Technology for the Internet**  
