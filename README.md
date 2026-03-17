@@ -80,9 +80,9 @@ Escola Natividade de Nossa Senhora
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedrinnhoUtumi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroUtumi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrinnhoUtumi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroUtumi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Escola Natividade de Nossa Senhora
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrinnhoUtumi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroUtumi&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -102,7 +102,7 @@ Escola Natividade de Nossa Senhora
 
 <p align="center">
 
-<img src="https://github.com/PedrinnhoUtumi/PedrinnhoUtumi/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/PedroUtumi/PedroUtumi/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -136,7 +136,7 @@ Escola Natividade de Nossa Senhora
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PedrinnhoUtumi&color=00ffff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PedroUtumi&color=00ffff&style=for-the-badge"/>
 
 </p>
 
